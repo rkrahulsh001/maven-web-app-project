@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven3'   // Jenkins me configure kiya hua naam
+        maven 'Maven-3'   // Jenkins me configure kiya hua naam
     }
 
     environment {
